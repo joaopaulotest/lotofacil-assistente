@@ -35,4 +35,4 @@ Este projeto é apenas para fins educacionais e de entretenimento. Não garante 
 ## Desenvolvedor
 
 João Paulo  
-Email: joaopaulo@exemplo.com
+joao.paulo.calixto08@aluno.ifce.edu.br
